@@ -1,4 +1,4 @@
-# app
+# ssmovie
 
 ## Project setup
 ```
